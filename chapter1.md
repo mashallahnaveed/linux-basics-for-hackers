@@ -1,45 +1,71 @@
-📘 Chapter 1: Getting Started with Kali Linux
-🐧 What is Kali Linux?
+📘 Chapter 1: Introduction to Linux + Basic Commands
 
-Kali Linux is a Debian-based Linux distribution designed specifically for:
+🐧 What is Linux?
 
-Penetration Testing
-Ethical Hacking
-Security Research
+Linux is an open-source operating system widely used in:
 
-It comes pre-installed with a powerful set of cybersecurity tools used by professionals worldwide.
+* Cybersecurity
+* Ethical hacking
+* Servers and networking
+* Programming environments
 
-🎯 Why Linux is Important for Cybersecurity
+Kali Linux is a special version of Linux used for security testing.
 
-Linux plays a major role in cybersecurity because it provides:
 
-Full control over the operating system
-Powerful command-line interface (CLI)
-Compatibility with most security and hacking tools
-High flexibility and open-source customization
-💻 Installation Methods
+💻 Basic Linux Commands (Chapter 1)
 
-You can install Kali Linux in different ways depending on your setup:
+ 📁 1. Navigation Commands
 
-🖥️ Virtual Machine (VMware / VirtualBox) — Recommended
-💽 Dual Boot (Windows + Linux)
-🔌 Live USB (run without installation)
-👤 User Types in Linux
+Used to move around the system:
 
-🔹 Root User (root)
-Has full administrative privileges
-Can modify or delete any system file
-Should be used carefully ⚠️
+* `pwd` → shows current directory (where you are)
+* `ls` → lists files and folders
+* `ls -l` → detailed list view
+* `ls -a` → shows hidden files
+* `cd folder_name` → move into folder
+* `cd ..` → go back one step
+* `clear` → clears the terminal screen
 
-🔹 Regular User (kali)
-Limited permissions
-Safer for daily usage
-Requires elevation for system changes
-🔐 Privilege Escalation using sudo
+---
 
-The sudo command allows a regular user to execute commands with administrative (root) privileges.
+## 📂 2. File & Directory Commands
 
-💡 Example:
-sudo apt update
+Used to create and manage files:
 
-This runs the update command with elevated permissions to refresh package lists.
+* `mkdir folder_name` → create a new folder
+* `rmdir folder_name` → remove empty folder
+* `touch file.txt` → create a new file
+* `cp file1 file2` → copy file
+* `mv file1 file2` → move or rename file
+* `rm file.txt` → delete file
+* `rm -r folder_name` → delete folder with contents
+
+---
+
+## 📖 3. Viewing File Content
+
+Used to read files:
+
+* `cat file.txt` → show full file content
+* `less file.txt` → view file page by page
+* `head file.txt` → first 10 lines
+* `tail file.txt` → last 10 lines
+
+---
+
+## ⚙️ 4. System Information (Basic Awareness)
+
+* `whoami` → shows current user
+* `uname -a` → system info
+* `id` → user ID info
+* `history` → shows previous commands
+
+---
+
+## 🔐 Why These Matter in Cybersecurity
+
+These commands are the foundation of:
+
+* Navigating Linux systems in hacking labs
+* Managing files during penetration testing
+* Understanding system structure before advanced attacks
