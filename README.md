@@ -27,10 +27,10 @@ To build strong fundamentals in:
 
 ## 📈 Progress
 
-- ✅ Chapter 1 Completed
-- ⏳ Chapter 2 In Progress
-- ⏳ More chapters coming...
+- 📘 Chapter 1 Completed
+- 📘 Chapter 6: Process Management  
 
+(More chapters coming soon...)
 
 ## 🚀 Note
 🚀 This repository is actively maintained and will be consistently updated as I progress in my learning.
