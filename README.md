@@ -1,119 +1,154 @@
-# 🐧 Linux Basics for Hackers - Notes
+# Linux Basics for Hackers
 
-📘 Personal notes based on the book *Linux Basics for Hackers*
-
-🎯 Focus: Linux, Cybersecurity, and Ethical Hacking fundamentals
+A structured collection of notes, commands, examples, and key concepts from the book **Linux Basics for Hackers**. This repository documents my learning journey through Linux, cybersecurity fundamentals, ethical hacking concepts, and system administration.
 
 ---
 
-![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
-![Status](https://img.shields.io/badge/Status-Learning-green)
-![Focus](https://img.shields.io/badge/Field-Cybersecurity-red)
+##  About This Repository
+
+This repository contains chapter-wise notes based on the book **Linux Basics for Hackers**. The purpose is to:
+
+- Strengthen Linux fundamentals
+- Build a solid cybersecurity foundation
+- Create a personal knowledge base
+- Document important commands and concepts
+- Prepare for quizzes, practicals, interviews, and certifications
 
 ---
 
-## 📑 Table of Contents
+##  Learning Objectives
 
-* [📘 Chapter 1: Getting Started](#-chapter-1-getting-started)
-* [📘 Chapter 2: Text Manipulation](#-chapter-2-text-manipulation)
-* [📘 Chapter 6: Process Management](#-chapter-6-process-management)
+By completing this repository, I aim to develop skills in:
 
----
-
-## 📂 Chapters Covered
-
-### 📘 Chapter 1: Getting Started
-
-* Basic Linux concepts
-* File system navigation
-* Essential commands (`pwd`, `ls`, `cd`, etc.)
-* Getting help using `man`
-
----
-
-### 📘 Chapter 2: Text Manipulation
-
-* Viewing files (`cat`, `head`, `tail`, `less`)
-* Searching text using `grep`
-* Editing text with `sed`
-* Combining commands using pipes `|`
+- Linux Command Line
+- File Management
+- Text Manipulation
+- Networking Fundamentals
+- Software Management
+- Linux Permissions
+- Process Management
+- Environment Variables
+- Bash Scripting
+- Compression & Archiving
+- Digital Forensics Basics
+- System Administration
+- Ethical Hacking Fundamentals
 
 ---
 
-### 📘 Chapter 6: Process Management
+##  Chapters
 
-* Viewing processes (`ps`, `top`)
-* Managing processes (`kill`, `nice`)
-* Running processes in background
-* Foreground & background control
+### Completed Chapters 
+
+- [Chapter 1 – Getting Started](chapter01-Getting%20Started.md)
+- [Chapter 2 – Text Manipulation](chapter02-Text%20Manipulation.md)
+- [Chapter 3 – Analyzing and Managing Networks](chapter03-Analyzing%20and%20Managing%20Networks.md)
+- [Chapter 4 – Adding and Removing Software](chapter04-Adding%20and%20Removing%20Software.md)
+- [Chapter 5 – Controlling File and Directory Permissions](chapter05-Controlling%20File%20and%20Directory%20Permissions.md)
+- [Chapter 6 – Process Management](chapter06-Process%20Management.md)
+- [Chapter 7 – Managing Environment Variables](chapter07-Managing%20Environment%20Variables.md)
+- [Chapter 8 – Bash Scripting](chapter08-Bash%20Scripting.md)
+- [Chapter 9 – Compressing and Archiving](chapter09-Compressing%20and%20Archiving.md)
+
+### Upcoming Chapters 
+
+- Chapter 10 – Filesystem and Storage Device Management
+- Chapter 11 – The Logging System
+- Chapter 12 – Using and Abusing Services
+- Chapter 13 – Becoming Secure and Anonymous
+- Chapter 14 – Understanding and Inspecting Wireless Networks
+- Chapter 15 – Managing the Linux Kernel and Loadable Kernel Modules
+- Chapter 16 – Automating Tasks with Job Scheduling
+- Chapter 17 – Python Scripting Basics for Hackers
 
 ---
 
-## 🧪 Practical Examples
+##  Progress Tracker
 
-```bash
-cat file.txt | grep "error"
-```
+| Chapter | Status |
+|----------|---------|
+| Chapter 1 | ✅ Complete |
+| Chapter 2 | ✅ Complete |
+| Chapter 3 | ✅ Complete |
+| Chapter 4 | ✅ Complete |
+| Chapter 5 | ✅ Complete |
+| Chapter 6 | ✅ Complete |
+| Chapter 7 | ✅ Complete |
+| Chapter 8 | ✅ Complete |
+| Chapter 9 | ✅ Complete |
+| Chapter 10 | ⏳ Pending |
+| Chapter 11 | ⏳ Pending |
+| Chapter 12 | ⏳ Pending |
+| Chapter 13 | ⏳ Pending |
+| Chapter 14 | ⏳ Pending |
+| Chapter 15 | ⏳ Pending |
+| Chapter 16 | ⏳ Pending |
+| Chapter 17 | ⏳ Pending |
 
-👉 Filters lines containing "error"
+**Progress:** 9 / 17 Chapters Completed
 
-```bash
-tail -n 10 log.txt
-```
+---
 
-👉 Shows last 10 lines of logs
+##  Skills Learned So Far
 
-```bash
-ps aux | grep firefox
-```
+- Linux Navigation Commands
+- File & Directory Management
+- Text Searching and Processing
+- Network Configuration
+- Network Information Gathering
+- Package Installation and Updates
+- User and Permission Management
+- Process Monitoring
+- Environment Variables
+- Bash Scripting Fundamentals
+- File Compression and Archiving
+- Disk Imaging with DD
 
-👉 Finds running Firefox process
+---
 
+##  Technologies & Tools
 
+- Kali Linux
+- Bash
+- Linux Terminal
+- APT Package Manager
+- Nmap
+- TAR
+- GZIP
+- BZIP2
+- DD
+- Nano
+- Vim
 
-## 🧠 Key Takeaways
+---
 
-* Learned how to manipulate and filter text efficiently
-* Understood process management in Linux
-* Practiced combining commands for powerful operations
-* Improved command-line navigation and workflow
+##  Goal
 
+Complete all 17 chapters of **Linux Basics for Hackers** and build a strong foundation for:
 
+- Cybersecurity
+- Ethical Hacking
+- Penetration Testing
+- Digital Forensics
+- Linux Administration
+- Security Research
 
-## 📊 Progress Tracker
+---
 
-* ✅ Chapter 1
-* ✅ Chapter 2
-* ⏳ Chapter 3
-* ⏳ Chapter 4
-* ⏳ Chapter 5
-* ✅ Chapter 6
-* ⏳ Remaining chapters
+##  Reference
 
+**Book:** Linux Basics for Hackers  
+**Author:** OccupyTheWeb
 
+---
 
-## 🚀 Goals
+##  Support
 
-* Complete all 17 chapters
+If you find these notes useful, feel free to star the repository and follow my cybersecurity learning journey.
 
-* Build strong Linux fundamentals
-
-* Apply knowledge in cybersecurity & ethical hacking
-
-
-
-## 👨‍💻 Author
+---
+###  Author
 
 **Mashallah Naveed**
 
-💻 Cybersecurity Student
-
-🚀 Learning Linux, GitHub & Ethical Hacking
-
-
-
-## ⭐ Notes
-
-This repository is part of my learning journey.
-
-More chapters and updates will be added regularly.
+Aspiring Cybersecurity Professional | Linux Enthusiast | Ethical Hacking Learner
