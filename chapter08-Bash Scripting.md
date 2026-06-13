@@ -327,5 +327,3 @@ sleep
 
 exit
 ```
-
-These notes cover the main concepts from Chapter 8 and are perfect for both GitHub documentation and quiz preparation. 🚀
