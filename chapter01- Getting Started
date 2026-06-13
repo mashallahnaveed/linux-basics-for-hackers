@@ -1,6 +1,6 @@
-📘 Chapter 1: Introduction to Linux + Basic Commands
+Chapter 1: Introduction to Linux + Basic Commands
 
-🐧 What is Linux?
+What is Linux?
 
 Linux is an open-source operating system widely used in:
 
@@ -12,9 +12,9 @@ Linux is an open-source operating system widely used in:
 Kali Linux is a special version of Linux used for security testing.
 
 
-💻 Basic Linux Commands (Chapter 1)
+ Basic Linux Commands (Chapter 1)
 
- 📁 1. Navigation Commands
+ 1. Navigation Commands
 
 Used to move around the system:
 
@@ -28,7 +28,7 @@ Used to move around the system:
 
 ---
 
-## 📂 2. File & Directory Commands
+##  2. File & Directory Commands
 
 Used to create and manage files:
 
@@ -42,7 +42,7 @@ Used to create and manage files:
 
 ---
 
-## 📖 3. Viewing File Content
+##  3. Viewing File Content
 
 Used to read files:
 
@@ -53,7 +53,7 @@ Used to read files:
 
 ---
 
-## ⚙️ 4. System Information (Basic Awareness)
+##  4. System Information (Basic Awareness)
 
 * `whoami` → shows current user
 * `uname -a` → system info
@@ -62,7 +62,7 @@ Used to read files:
 
 ---
 
-## 🔐 Why These Matter in Cybersecurity
+##  Why These Matter in Cybersecurity
 
 These commands are the foundation of:
 
