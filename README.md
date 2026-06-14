@@ -49,10 +49,10 @@ By completing this repository, I aim to develop skills in:
 - [Chapter 7 – Managing Environment Variables](chapter07-Managing%20Environment%20Variables.md)
 - [Chapter 8 – Bash Scripting](chapter08-Bash%20Scripting.md)
 - [Chapter 9 – Compressing and Archiving](chapter09-Compressing%20and%20Archiving.md)
+- [Chapter 10- File System and Storage Devices Management](chapter10-File%20System%20and%20Storage%20Device%20Management.md)
 
 ### Upcoming Chapters 
 
-- Chapter 10 – Filesystem and Storage Device Management
 - Chapter 11 – The Logging System
 - Chapter 12 – Using and Abusing Services
 - Chapter 13 – Becoming Secure and Anonymous
@@ -76,7 +76,7 @@ By completing this repository, I aim to develop skills in:
 | Chapter 7 | ✅ Complete |
 | Chapter 8 | ✅ Complete |
 | Chapter 9 | ✅ Complete |
-| Chapter 10 | ⏳ Pending |
+| Chapter 10 |✅ Complete |
 | Chapter 11 | ⏳ Pending |
 | Chapter 12 | ⏳ Pending |
 | Chapter 13 | ⏳ Pending |
