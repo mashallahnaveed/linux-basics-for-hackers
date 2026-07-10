@@ -1,6 +1,6 @@
-# Linux Basics for Hackers
+# Linux Fundamentals
 
-A structured collection of notes, commands, examples, and key concepts from the book **Linux Basics for Hackers**. This repository documents my learning journey through Linux, cybersecurity fundamentals, ethical hacking concepts, and system administration.
+A structured collection of notes, commands, examples, and key concepts from the book **Linux Fundamentals**. This repository documents my learning journey through Linux, cybersecurity fundamentals, ethical hacking concepts, and system administration.
 
 ---
 
